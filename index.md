@@ -1,3 +1,26 @@
+### 国内AI大模型一览
+
+| 企业 | AI名称 | 发布日期 | 最近更新 | URL |
+| ---- | ---- | ---- | ---- |
+| 科大讯飞 | 1+N认知大模型 | 2023/5/6 | | |
+
+|昆仑万维|天工3.5|2023/4/17|||
+|华为|盘古NLP模型|2023/4/10|||
+|达观数据|曹植|2023/3/18|||
+|网易|玉言|未知|||
+|阿里巴巴|通义千问|2023/4/11|||
+|商汤科技|日日新|2023/4/10|||
+|360|360智脑|2023/4/10|||
+|百度|文心||2023/3/16|||
+|智谱AI|ChatGLM-6B|2023/3/14|||
+|澜舟科技|孟子|2023/3/14|||
+|复旦大学|MOSS|2023/2/21|||
+|腾讯|混元|2022/12|||
+|中科院自动化所|紫东太初|2021/9/27|||
+|智源研究所|悟道2.0|2021/6/1|||
+
+
+
 ## Welcome to daydayjoyful
 
 You can use the [editor on GitHub](https://github.com/daydayjoyful/daydayjoyful.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
