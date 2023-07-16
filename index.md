@@ -1,3 +1,5 @@
+## Welcome to daydayjoyful
+
 ### 国内AI大模型一览
 
 | 企业 | AI名称 | 发布日期 | 最近更新 | URL |
@@ -10,43 +12,13 @@
 |阿里巴巴|通义千问|2023/4/11|||
 |商汤科技|日日新|2023/4/10|||
 |360|360智脑|2023/4/10|||
-|百度|文心||2023/3/16|||
+|百度|文心|2023/3/16|||
 |智谱AI|ChatGLM-6B|2023/3/14|||
 |澜舟科技|孟子|2023/3/14|||
 |复旦大学|MOSS|2023/2/21|||
 |腾讯|混元|2022/12|||
 |中科院自动化所|紫东太初|2021/9/27|||
 |智源研究所|悟道2.0|2021/6/1|||
-
-
-
-## Welcome to daydayjoyful
-
-You can use the [editor on GitHub](https://github.com/daydayjoyful/daydayjoyful.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
